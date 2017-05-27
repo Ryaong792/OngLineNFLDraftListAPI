@@ -51,6 +51,6 @@ const qbSchema = new mongoose.Schema({
     }
   }
 })
-const Product = mongoose.model('qb', qbSchema)
+const Qb = mongoose.model('QB', qbSchema)
 
-module.exports = qb
+module.exports = Qb
