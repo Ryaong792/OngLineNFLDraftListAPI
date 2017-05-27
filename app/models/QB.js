@@ -3,43 +3,43 @@
 const mongoose = require('mongoose')
 
 const qbSchema = new mongoose.Schema({
-  Player: {
+  player: {
     type: String,
   },
   image: {
     type: String
   },
-  Rank: {
+  rank: {
     type: Number
   },
-  PassATT: {
+  passATT: {
     type: Number,
   },
-  PassCMP: {
+  passCMP: {
     type: Number,
   },
-  PassYDS: {
+  passYDS: {
     type: Number,
   },
-  PassTDS: {
+  passTDS: {
     type: Number,
   },
-  PassINTS: {
+  passINTS: {
     type: Number,
   },
-  RushATT: {
+  rushATT: {
     type: Number,
   },
-  RushYDS: {
+  rushYDS: {
     type: Number,
   },
-  RushTDS: {
+  rushTDS: {
     type: Number,
   },
-  MiscFL: {
+  miscFL: {
     type: Number,
   },
-  MiscFPTS: {
+  miscFPTS: {
     type: Number,
   }
 }, {
@@ -51,6 +51,6 @@ const qbSchema = new mongoose.Schema({
     }
   }
 })
-const Product = mongoose.model('QB', qbSchema)
+const Product = mongoose.model('qb', qbSchema)
 
-module.exports = QB
+module.exports = qb
