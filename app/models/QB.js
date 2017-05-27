@@ -19,7 +19,7 @@ const qbSchema = new mongoose.Schema({
     type: Number,
   },
   passYDS: {
-    type: Number,
+    type: String,
   },
   passTDS: {
     type: Number,
