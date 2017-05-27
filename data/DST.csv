@@ -1,0 +1,77 @@
+Player,Image,Rank,SACK,INT,FR,FF,TD,ASSIST,SAFETY,YDSAGN,FPTS
+Seattle Seahawks ,https://s3.amazonaws.com/ryaong792/DST/SEAHAWKS.png,1,40.5,14.3,10.5,17.4,3.6,0,0,"4,667.00",110.7
+Jacksonville Jaguars ,https://s3.amazonaws.com/ryaong792/DST/Jaguars.png,2,39,13.5,9.7,16.5,3.6,0,0,"4,550.00",109.6
+Arizona Cardinals ,https://s3.amazonaws.com/ryaong792/DST/Cardinals.png,3,41.2,15.1,12.1,19.6,3.5,0,0,"4,566.00",107
+Carolina Panthers ,https://s3.amazonaws.com/ryaong792/DST/Panthers.png,4,40.8,14.7,11.3,18.8,3.6,0,1,"5,286.00",107
+Washington Redskins ,https://s3.amazonaws.com/ryaong792/DST/Redskins.png,5,36.2,13.2,10.9,18.6,3.5,0,0,"5,588.00",106.4
+Minnesota Vikings ,https://s3.amazonaws.com/ryaong792/DST/Vikings.png,6,40.7,14.6,11.5,18.7,3.8,0,1,"5,107.00",106
+Denver Broncos ,https://s3.amazonaws.com/ryaong792/DST/Broncos.png,7,38.7,14.5,12.7,20.3,3.5,0,0,"4,630.00",104.9
+Tennessee Titans ,https://s3.amazonaws.com/ryaong792/DST/Titans.png,8,39.4,14.6,8.7,16.1,3.2,0,0,"5,110.00",104.6
+Kansas City Chiefs ,https://s3.amazonaws.com/ryaong792/DST/Chiefs.png,9,32.7,16.5,12.6,20.5,3.6,0,0,"5,510.00",104.5
+Cincinnati Bengals ,https://s3.amazonaws.com/ryaong792/DST/Bengals.png,10,37.1,16.3,8.2,14.4,2.9,0,0,"5,088.00",103.3
+Houston Texans ,https://s3.amazonaws.com/ryaong792/DST/Texans.png,11,37.9,14.8,9.5,16.5,3.5,0,0,"4,764.00",102.5
+Philadelphia Eagles ,https://s3.amazonaws.com/ryaong792/DST/Eagles.png,12,34.5,14.9,12.1,19.8,3.5,0,0,"5,482.00",102.1
+Green Bay Packers ,https://s3.amazonaws.com/ryaong792/DST/Packers.png,13,36.5,15.4,8.8,15.4,3.2,0,1,"5,720.00",101.8
+Los Angeles Chargers ,https://s3.amazonaws.com/ryaong792/DST/Chargers.png,14,35.1,14.3,11,18.3,3.5,0,0,"5,475.00",101.7
+New England Patriots ,https://s3.amazonaws.com/ryaong792/DST/Patriots.png,15,36.5,14.4,10.5,18,3.1,0,0,"4,952.00",101.1
+Pittsburgh Steelers ,https://s3.amazonaws.com/ryaong792/DST/Steelers.png,16,38.5,13.4,11.2,18.9,3.2,0,0,"5,104.00",100.7
+Miami Dolphins ,https://s3.amazonaws.com/ryaong792/DST/Dolphins.png,17,33.8,14.9,9.3,16.3,3.2,0,0,"5,926.00",100.6
+New York Giants ,https://s3.amazonaws.com/ryaong792/DST/Giants.png,18,33.2,15.4,11,18.3,3.2,0,0,"5,066.00",100.6
+Los Angeles Rams ,https://s3.amazonaws.com/ryaong792/DST/Rams.png,19,34.9,13.5,10.5,17.9,2.9,0,0,"5,292.00",100.5
+Tampa Bay Buccaneers ,https://s3.amazonaws.com/ryaong792/DST/Buccaneers.png,20,36.1,14,11.5,19,3.5,0,1,"5,978.00",100
+Dallas Cowboys ,https://s3.amazonaws.com/ryaong792/DST/Cowboys.png,21,34.5,12.1,11.1,18.8,3.2,0,0,"5,324.00",99.1
+Baltimore Ravens ,https://s3.amazonaws.com/ryaong792/DST/Ravens.png,22,35.8,14.5,10.5,17.5,3.2,0,0,"4,642.00",99
+Chicago Bears ,https://s3.amazonaws.com/ryaong792/DST/Bears.png,23,39.7,11.3,7.7,13.5,2.8,0,0,"5,479.00",98.7
+Buffalo Bills ,https://s3.amazonaws.com/ryaong792/DST/Bills.png,24,36.4,13.9,8.9,15.4,3.1,0,0,"5,770.00",97.6
+Atlanta Falcons ,https://s3.amazonaws.com/ryaong792/DST/Falcons.png,25,32.3,13.3,10.3,17.3,3.2,0,0,"5,755.00",96.7
+Indianapolis Colts ,https://s3.amazonaws.com/ryaong792/DST/Colts.png,26,32.9,13.2,10.1,18,3.1,0,0,"5,511.00",95.1
+San Francisco 49ers ,https://s3.amazonaws.com/ryaong792/DST/49ers.png,27,33.9,14.7,9.9,17,2.2,0,0,"5,469.00",94.5
+Detroit Lions ,https://s3.amazonaws.com/ryaong792/DST/Lions.png,28,33.5,12.2,8.5,15.3,2.8,0,0,"5,754.00",94.5
+New York Jets ,https://s3.amazonaws.com/ryaong792/DST/Jets.png,29,33,11.6,9.2,15.8,3.4,0,0,"5,420.00",94.4
+New Orleans Saints ,https://s3.amazonaws.com/ryaong792/DST/Saints.png,30,32.5,11.9,11.4,18.6,3.1,0,0,"6,087.00",93.1
+Oakland Raiders ,https://s3.amazonaws.com/ryaong792/DST/Raiders.png,31,29.6,14.6,12.7,20.5,3.2,0,0,"5,871.00",92.4
+Cleveland Browns ,https://s3.amazonaws.com/ryaong792/DST/Browns.png,32,31.4,13.6,7.9,14,2.5,0,0,"5,704.00",91.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
