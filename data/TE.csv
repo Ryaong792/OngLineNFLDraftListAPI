@@ -1,4 +1,4 @@
-Player,Image,Rank,ReceivingREC,ReceivingYDS,ReceivingTDS,MiscFL,MiscFPTS
+player,image,rank,receivingREC,receivingYDS,receivingTDS,miscFL,miscFPTS
 Rob Gronkowski NE ,https://s3.amazonaws.com/ryaong792/TE/R.Gronkowski.jpg,1,68.3,"1,018.30",9.3,0,157.6
 Greg Olsen CAR ,https://s3.amazonaws.com/ryaong792/TE/G.Olsen.jpg,2,77.6,"1,016.20",5.7,0,135.5
 Jordan Reed WAS ,https://s3.amazonaws.com/ryaong792/TE/J.Reed.jpg,3,84.8,907.1,6.9,0,132.1
