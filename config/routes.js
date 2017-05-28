@@ -10,6 +10,7 @@ module.exports = require('lib/wiring/routes')
 // standards RESTful routes
 .resources('examples')
 .resources('qbs', { only: ['index', 'show'] })
+.resources('rbs', { only: ['index', 'show'] })
 //.get('qbs', 'qbs#show')
 
 // users of the app have special requirements
