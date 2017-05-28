@@ -1,4 +1,4 @@
-Player,Image,Rank,SACK,INT,FR,FF,TD,ASSIST,SAFETY,YDSAGN,FPTS
+player,image,rank,sack,int,fr,ff,td,assist,safety,ydsAGN,miscFPTS
 Seattle Seahawks ,https://s3.amazonaws.com/ryaong792/DST/SEAHAWKS.png,1,40.5,14.3,10.5,17.4,3.6,0,0,"4,667.00",110.7
 Jacksonville Jaguars ,https://s3.amazonaws.com/ryaong792/DST/Jaguars.png,2,39,13.5,9.7,16.5,3.6,0,0,"4,550.00",109.6
 Arizona Cardinals ,https://s3.amazonaws.com/ryaong792/DST/Cardinals.png,3,41.2,15.1,12.1,19.6,3.5,0,0,"4,566.00",107
@@ -31,47 +31,3 @@ New York Jets ,https://s3.amazonaws.com/ryaong792/DST/Jets.png,29,33,11.6,9.2,15
 New Orleans Saints ,https://s3.amazonaws.com/ryaong792/DST/Saints.png,30,32.5,11.9,11.4,18.6,3.1,0,0,"6,087.00",93.1
 Oakland Raiders ,https://s3.amazonaws.com/ryaong792/DST/Raiders.png,31,29.6,14.6,12.7,20.5,3.2,0,0,"5,871.00",92.4
 Cleveland Browns ,https://s3.amazonaws.com/ryaong792/DST/Browns.png,32,31.4,13.6,7.9,14,2.5,0,0,"5,704.00",91.8
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
