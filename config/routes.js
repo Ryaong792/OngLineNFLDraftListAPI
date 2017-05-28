@@ -13,6 +13,7 @@ module.exports = require('lib/wiring/routes')
 .resources('rbs', { only: ['index', 'show'] })
 .resources('wrs', { only: ['index', 'show'] })
 .resources('tes', { only: ['index', 'show'] })
+.resources('ks', { only: ['index', 'show'] })
 //.get('qbs', 'qbs#show')
 
 // users of the app have special requirements
