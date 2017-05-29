@@ -15,6 +15,7 @@ module.exports = require('lib/wiring/routes')
 .resources('tes', { only: ['index', 'show'] })
 .resources('ks', { only: ['index', 'show'] })
 .resources('dsts', { only: ['index', 'show'] })
+.resources('drafts')
 //.get('qbs', 'qbs#show')
 
 // users of the app have special requirements
@@ -23,6 +24,7 @@ module.exports = require('lib/wiring/routes')
 .delete('/sign-out/:id', 'users#signout')
 .patch('/change-password/:id', 'users#changepw')
 .resources('users', { only: ['index', 'show'] })
+
 
 // all routes created
 ;
