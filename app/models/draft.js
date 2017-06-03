@@ -1,6 +1,7 @@
 'use strict'
 
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
+const uniqueValidator = require('mongoose-unique-validator');
 
 const draftSchema = new mongoose.Schema({
   _owner: {
@@ -8,45 +9,34 @@ const draftSchema = new mongoose.Schema({
     ref: 'User',
     required: true
   },
-  name: {
-    type: String
+  playerid: {
+    type: String,
+    rquired: true,
+    unique: true
   },
-  qbs: [{
-    player: {type: String},
-    image: {type: String},
-    rank: {type: Number},
-    miscFPTS: {type: Number}
-  }],
-  rbs: [{
-    player: {type: String},
-    image: {type: String},
-    rank: {type: Number},
-    miscFPTS: {type: Number}
-  }],
-  wrs: [{
-    player: {type: String},
-    image: {type: String},
-    rank: {type: Number},
-    miscFPTS: {type: Number}
-  }],
-  tes: [{
-    player: {type: String},
-    image: {type: String},
-    rank: {type: Number},
-    miscFPTS: {type: Number}
-  }],
-  ks: [{
-    player: {type: String},
-    image: {type: String},
-    rank: {type: Number},
-    miscFPTS: {type: Number}
-  }],
-  dsts: [{
-    player: {type: String},
-    image: {type: String},
-    rank: {type: Number},
-    miscFPTS: {type: Number}
-  }]
+  position: {
+    type: String,
+    required: true
+  },
+  name: {
+    type: String,
+    required: true
+  },
+  image: {
+    type: String,
+    required: true
+  },
+  rank: {
+    type: Number,
+    required: true
+  },
+  miscFPTS: {
+    type: Number,
+    required: true
+  },
+  notes: {
+    type: String,
+  }
 }, {
   timestamps: true,
   toJSON: {
@@ -56,6 +46,7 @@ const draftSchema = new mongoose.Schema({
     }
   }
 })
+draftSchema.plugin(uniqueValidator);
 const Draft = mongoose.model('Draft', draftSchema)
 
 module.exports = Draft

@@ -3,6 +3,11 @@
 const mongoose = require('mongoose')
 
 const qbSchema = new mongoose.Schema({
+  _owner: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User',
+    required: true
+  },
   player: {
     type: String,
   },
