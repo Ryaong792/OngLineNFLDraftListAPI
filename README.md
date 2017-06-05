@@ -1,4 +1,4 @@
-![Wireframe](assets/styles/ERD.png)
+![Wireframe](/ERD.png)
 
 
 
