@@ -11,28 +11,21 @@ const draftSchema = new mongoose.Schema({
   },
   playerid: {
     type: String,
-    rquired: true,
-    unique: true
   },
   position: {
     type: String,
-    required: true
   },
   name: {
     type: String,
-    required: true
   },
   image: {
     type: String,
-    required: true
   },
   rank: {
     type: Number,
-    required: true
   },
   miscFPTS: {
     type: Number,
-    required: true
   },
   notes: {
     type: String,
