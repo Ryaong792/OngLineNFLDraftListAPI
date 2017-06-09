@@ -11,6 +11,7 @@ const draftSchema = new mongoose.Schema({
   },
   playerid: {
     type: String,
+    unique: true,
   },
   position: {
     type: String,
